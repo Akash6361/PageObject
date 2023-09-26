@@ -17,7 +17,7 @@ public class LoginTestCase {
 	public void Login() {
 		Login up = new Login();
 		
-		up.Entemail("yopoj23998@alvisani.com");
+		up.Entemail("akash.br.1223@gmail.com");
 		up.password("Akash@55555");
 		up.login();
 		up.Getmsg();

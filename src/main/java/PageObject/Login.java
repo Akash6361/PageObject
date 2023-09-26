@@ -43,7 +43,7 @@ public class Login extends BaseTest {
 	public void Getmsg() {
 		String s =welmsg.getText();
 		System.out.println(s);
-		Assert.assertEquals(s,"Welcome to Facebook, Akash");
+		Assert.assertEquals(s,"Welcome to Facebook, Lizzy");
 		
 	}
 	
