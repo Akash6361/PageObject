@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-26T16:48:39 IST" name="Default suite" finished-at="2023-09-26T16:48:56 IST" duration-ms="16538">
+    <groups>
+    </groups>
+    <test started-at="2023-09-26T16:48:39 IST" name="Default test" finished-at="2023-09-26T16:48:56 IST" duration-ms="16538">
+      <class name="TestCases.LogoutTestCase">
+        <test-method is-config="true" signature="initalize()[pri:0, instance:TestCases.LogoutTestCase@662b4c69]" started-at="2023-09-26T16:48:39 IST" name="initalize" finished-at="2023-09-26T16:48:42 IST" duration-ms="3367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalize -->
+        <test-method signature="Login()[pri:0, instance:TestCases.LogoutTestCase@662b4c69]" started-at="2023-09-26T16:48:42 IST" name="Login" finished-at="2023-09-26T16:48:56 IST" duration-ms="13110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- TestCases.LogoutTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
